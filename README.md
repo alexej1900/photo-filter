@@ -1,2 +1,2 @@
 # photo-filter
-https://alexej1900.github.io/photo-filter/index.html
+https://alexej1900.github.io/photo-filter/
